@@ -1,74 +1,74 @@
 Cennik [? VIP ?]
-?? Metoda P?atno?ci SMS
-??• 1.23 z? - 1 dzie?
-??• 4.92 z? - 7 dni
-??• 6.15 z? - 10 dni
-??• 11.07 z? - 30 dni
-??• 17.22 z? - 50 dni
-??• 23.37 z? - 75 dni
-??• 30.75 z? - 100 dni
-??• 65 z? - VIP na zawsze
+Metoda Platnosci SMS
+â€¢ 1.23 zl - 1 dzie?
+â€¢ 4.92 zl - 7 dni
+â€¢ 6.15 zl - 10 dni
+â€¢ 11.07 zl - 30 dni
+â€¢ 17.22 zl - 50 dni
+â€¢ 23.37 zl - 75 dni
+â€¢ 30.75 zl - 100 dni
+â€¢ 65 zl - VIP na zawsze
 
-?? Metoda P?atno?ci PSC
-??•?10 z? - 30 dni
-??•?20 z? - 75 dni
-??•?30 z? - 120 dni
-??•?40 z? - 160 dni
-??•?50 z? - VIP na ZAWSZE
+Metoda Platnosci PSC
+â€¢ 10 zl - 30 dni
+â€¢ 20 zl - 75 dni
+â€¢ 30 zl - 120 dni
+â€¢ 40 zl - 160 dni
+â€¢ 50 zl - VIP na ZAWSZE
 
-?? Metoda P?atno?ci PayPal
-??•?10 z? - 30 dni
-??•?14 z? - 75 dni
-??•?21 z? - 120 dni
-??•?28 z? - 160 dni
-??•?35 z? - 200 dni
-??•?40 z? - VIP na ZAWSZE
+Metoda Platnosci PayPal
+â€¢ 10 zl - 30 dni
+â€¢ 14 zl - 75 dni
+â€¢ 21 zl - 120 dni
+â€¢ 28 zl - 160 dni
+â€¢ 35 zl - 200 dni
+â€¢ 40 zl - VIP na ZAWSZE
 
-?? Metoda P?atno?ci w SKINACH
-??•?15 z? - 30 dni
-??•?70 z? - VIP na ZAWSZE
-??•?21 z? - 120 dni
-??•?28 z? - 160 dni
-??•?35 z? - 200 dni
-??•?40 z? - VIP na ZAWSZE
+Metoda Platnosci w SKINACH
+â€¢ 15 zl - 30 dni
+â€¢ 70 zl - VIP na ZAWSZE
+â€¢ 21 zl - 120 dni
+â€¢ 28 zl - 160 dni
+â€¢ 35 zl - 200 dni
+â€¢ 40 zl - VIP na ZAWSZE
 
-Cennik [? KREDYTÓW / MONET ?]
-?? Metoda P?atno?ci SMS
-??•?1.23 z? - 500 kredytów
-??•?3.69 z? - 2.000 kredytów
-??•?4.92 z? - 2.500 kredytów
-??•?6.15 z? - 3.000 kredytów
-??•?11.07 z? - 6.500 kredytów
-??•?17.22 z? - 10.000 kredytów
-??•?23.37 z? - 15.000 kredytów
-??•?30.75 z? - 20.000 kredytów??
+Cennik [? KREDYTÃ“W / MONET ?]
+Metoda Platnosci SMS
+â€¢ 1.23 zl - 500 kredytÃ³w
+â€¢ 3.69 zl - 2.000 kredytÃ³w
+â€¢ 4.92 zl - 2.500 kredytÃ³w
+â€¢ 6.15 zl - 3.000 kredytÃ³w
+â€¢ 11.07 zl - 6.500 kredytÃ³w
+â€¢ 17.22 zl - 10.000 kredytÃ³w
+â€¢ 23.37 zl - 15.000 kredytÃ³w
+â€¢ 30.75 zl - 20.000 kredytÃ³w??
 
-?? Metoda P?atno?ci PSC
-??•?10 z? - 7.000 kredytów
-??•?20 z? - 20.000 kredytów
-??•?30 z? - 35.000 kredytów
-??•?40 z? - 50.000 kredytów
-??•?50 z? - 65.000 kredytów
+Metoda Platnosci PSC
+â€¢ 10 z? - 7.000 kredytÃ³w
+â€¢ 20 z? - 20.000 kredytÃ³w
+â€¢ 30 z? - 35.000 kredytÃ³w
+â€¢ 40 z? - 50.000 kredytÃ³w
+â€¢ 50 z? - 65.000 kredytÃ³w
 
-?? Metoda P?atno?ci PayPal
-??•?7 z? - 7.000 kredytów
-??•?14 z? - 20.000 kredytów
-??•?21 z? - 35.000 kredytów
-??•?28 z? - 50.000 kredytów
-??•?35 z? - 65.000 kredytów
-??•?50 z? - 80.000 kredytów
+Metoda Platnosci PayPal
+â€¢ 7 zl - 7.000 kredytÃ³w
+â€¢ 14 zl - 20.000 kredytÃ³w
+â€¢ 21 zl - 35.000 kredytÃ³w
+â€¢ 28 zl - 50.000 kredytÃ³w
+â€¢ 35 zl - 65.000 kredytÃ³w
+â€¢ 50 zl - 80.000 kredytÃ³w
 
-?? Metoda P?atno?ci w SKINACH
-??•?15 z? - 7.000 kredytów
-??•?70 z? - 80.000 kredytów
+Metoda Platnosci w SKINACH
+â€¢ 15 zl - 7.000 kredytÃ³w
+â€¢ 70 zl - 80.000 kredytÃ³w
 
-Cennik [? Cennik pakietu us?ugi VIP + KREDYTY ?]
-?? Metoda P?atno?ci SMS
-??•?23 z? - VIP 30 dni + 3.000 kredytów
-??•?30 z? - VIP 80 dni + 5.000 kredytów
-??•?60 z? - VIP na zawsze + 10.000 kredytów
+Cennik [Cennik pakietu uslugi VIP + KREDYTY ?]
+Metoda Platnosci SMS
+â€¢ 23 zl - VIP 30 dni + 3.000 kredytÃ³w
+â€¢ 30 zl - VIP 80 dni + 5.000 kredytÃ³w
+â€¢ 60 zl - VIP na zawsze + 10.000 kredytÃ³w
 
-?? Metoda P?atno?ci PayPal
-??•?14 z? - VIP 30 dni + 3.000 kredytów
-??•?21 z? - VIP 80 dni + 5.000 kredytów
-??•?50 z? - VIP na zawsze + 10.000 kredytów
+Metoda Platnosci PayPal
+â€¢ 14 zl - VIP 30 dni + 3.000 kredytÃ³w
+â€¢ 21 zl - VIP 80 dni + 5.000 kredytÃ³w
+â€¢ 50 zl - VIP na zawsze + 10.000 kredytÃ³w
